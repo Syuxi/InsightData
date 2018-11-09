@@ -55,10 +55,5 @@ The directory structure for your repo should look like this:
               |    |── output
               |    |   |   └── top_10_occupations.txt
               |    |   |   └── top_10_states.txt
-              ├── test3
-                  ├── input
-                  │   └── H1B_FY_2016.csv
-                  |── output
-                  |   |   └── top_10_occupations.txt
-                  |   |   └── top_10_states.txt
+
 ```
