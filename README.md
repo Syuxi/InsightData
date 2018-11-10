@@ -7,13 +7,6 @@ A newspaper editor was researching immigration data trends on H1B(H-1B, H-1B1, E
 
 This code create a mechanism to analyze past years data, specificially calculate two metrics: **Top 10 Occupations** and **Top 10 States** for **certified** visa applications.
 
-Data are in `input` directory, running the `run.sh` script should execute the main python code in src folder, and produce the results in the `output` folder with two files in txt format: top_10_occupations.txt and top_10_states.txt.
-
-
-
-**Approach:** Each year of data can have different columns. Check **File Structure** docs before development. 
-
-
 # Run instructions
 
 This project use python3, execute h1b_DataTesting.py or run.sh should work
@@ -21,15 +14,9 @@ Code have been tested over 3 test-suites:
 1. h1b_input.csv
 2. Truncated 2014 (first 3000 entries)
 2. Truncated 2015 (first 500 entries)
+3. 2016 Data
 
-
-## What we are looking at
-Your solution should safisfy the following requirements:
-* Repo follows the required repo directory structure
-* The code is well-commented
-## Repo directory structure
-
-The directory structure for your repo should look like this:
+Please see the file directory structure :
 ```
       ├── README.md 
       ├── run.sh
