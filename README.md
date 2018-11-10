@@ -55,5 +55,12 @@ The directory structure for your repo should look like this:
               |    |── output
               |    |   |   └── top_10_occupations.txt
               |    |   |   └── top_10_states.txt
+              ├── test3
+              |    ├── input
+              |    │   └── H1B_FY_2016.csv (FILE SIZE RESTRICTION, CANT UPLOAD)
+              |    |      (https://drive.google.com/open?id=1Pw7x3N8QWX6ZILPI2qw2NhQghAJ-2Eed)
+              |    |── output
+              |    |   |   └── top_10_occupations.txt
+              |    |   |   └── top_10_states.txt
 
 ```
